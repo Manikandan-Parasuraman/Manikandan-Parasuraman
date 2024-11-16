@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Manikandan-Parasuraman
-- 👀 I’m interested in Backend Engineering Enthusiast | Crafting Scalable and High-Performance Systems | Dedicated Mentor for Emerging Developers
-- 🌱 I’m currently learning software architect and design for microservice.
-- 💞️ I’m looking to collaborate on open-source projects related to Backend Engineering and software design and architect.
-- 📫 How to reach me: You can contact me via email at tech.cod.mk13@gmail.com or through my LinkedIn profile (www.linkedin.com/in/manikandan-parasuraman).
+- 👋 Hello, I’m @Manikandan-Parasuraman.
+- 👀 Interests: I am a Backend Engineering enthusiast focused on crafting scalable and high-performance systems. I also dedicate time to mentoring emerging developers.
+- 🌱 Current Learning: I am currently enhancing my skills in software architecture and design, specifically for microservices.
+- 💞️ Collaboration Opportunities: I am looking to collaborate on open-source projects related to backend engineering, software design, and architecture.
+- 📫 Contact Information: You can reach me via email at tech.cod.mk13@gmail.com or through my LinkedIn profile at linkedin.com/in/manikandan-parasuraman.
 - 😄 Pronouns: He/Him
 
 <!---
