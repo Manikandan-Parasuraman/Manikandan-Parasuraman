@@ -1,4 +1,4 @@
-- 👋 Hello, I’m @Manikandan-Parasuraman.
+- 👋 Hello, I’m Manikandan-Parasuraman.
 - 👀 Interests: I am a Backend Engineering enthusiast focused on crafting scalable and high-performance systems. I also dedicate time to mentoring emerging developers.
 - 🌱 Current Learning: I am currently enhancing my skills in software architecture and design, specifically for microservices.
 - 💞️ Collaboration Opportunities: I am looking to collaborate on open-source projects related to backend engineering, software design, and architecture.
