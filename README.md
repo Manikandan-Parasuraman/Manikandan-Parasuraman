@@ -1,8 +1,8 @@
-👋 Hello, I’m Manikandan Parasuraman
-👨‍💻 Role & Interests: Backend Engineer specializing in Go and Python (FastAPI), focused on building scalable, cloud-native, and high-performance microservice systems. Passionate about clean architecture, system design, and backend automation.
-🌱 Currently Learning: AI & Machine Learning, advanced software architecture, and designing intelligent, event-driven microservices.
-🤝 Open to Collaborate: Open-source projects related to backend engineering, microservices, cloud systems, Kafka, AI/ML, and distributed architectures.
-☁️ Tech Stack: Go, Python, FastAPI, MongoDB, Kafka, Docker, GCP, GKE, Linux
-🔄 CI/CD: Bitbucket Pipelines (CI/CD), containerized deployments
-📫 Reach Me: manikandan.p.learning@gmail.com | https://www.linkedin.com/in/manikandan-parasuraman
-😄 Pronouns: He / Him
+- 👋 Hello, I’m Manikandan Parasuraman
+- 👨‍💻 Role & Interests: Backend Engineer specializing in Go and Python (FastAPI), focused on building scalable, cloud-native, and high-performance microservice systems. Passionate about clean architecture, system design, and backend automation.
+- 🌱 Currently Learning: AI & Machine Learning, advanced software architecture, and designing intelligent, event-driven microservices.
+- 🤝 Open to Collaborate: Open-source projects related to backend engineering, microservices, cloud systems, Kafka, AI/ML, and distributed architectures.
+- ☁️ Tech Stack: Go, Python, FastAPI, MongoDB, Kafka, Docker, GCP, GKE, Linux
+- 🔄 CI/CD: Bitbucket Pipelines (CI/CD), containerized deployments
+- 📫 Reach Me: manikandan.p.learning@gmail.com | https://www.linkedin.com/in/manikandan-parasuraman
+- 😄 Pronouns: He / Him
