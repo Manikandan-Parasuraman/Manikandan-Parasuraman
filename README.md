@@ -1,11 +1,8 @@
-- 👋 Hello, I’m Manikandan-Parasuraman.
-- 👀 Interests: I am a Backend Engineering enthusiast focused on crafting scalable and high-performance systems. I also dedicate time to mentoring emerging developers.
-- 🌱 Current Learning: I am currently enhancing my skills in software architecture and design, specifically for microservices.
-- 💞️ Collaboration Opportunities: I am looking to collaborate on open-source projects related to backend engineering, software design, and architecture.
-- 📫 Contact Information: You can reach me via email at tech.cod.mk13@gmail.com or through my LinkedIn profile at linkedin.com/in/manikandan-parasuraman.
-- 😄 Pronouns: He/Him
-
-<!---
-Manikandan-Parasuraman/Manikandan-Parasuraman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hello, I’m Manikandan Parasuraman
+👨‍💻 Role & Interests: Backend Engineer specializing in Go and Python (FastAPI), focused on building scalable, cloud-native, and high-performance microservice systems. Passionate about clean architecture, system design, and backend automation.
+🌱 Currently Learning: AI & Machine Learning, advanced software architecture, and designing intelligent, event-driven microservices.
+🤝 Open to Collaborate: Open-source projects related to backend engineering, microservices, cloud systems, Kafka, AI/ML, and distributed architectures.
+☁️ Tech Stack: Go, Python, FastAPI, MongoDB, Kafka, Docker, GCP, GKE, Linux
+🔄 CI/CD: Bitbucket Pipelines (CI/CD), containerized deployments
+📫 Reach Me: manikandan.p.learning@gmail.com | https://www.linkedin.com/in/manikandan-parasuraman
+😄 Pronouns: He / Him
